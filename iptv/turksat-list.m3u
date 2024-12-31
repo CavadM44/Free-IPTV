@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:1 TRT 1 HD
+http://50.7.144.122:1935/livetv/trt1.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 ATV HD
+http://50.7.144.122:1935/livetv/atv.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 atv avrupa
+https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/index.m3u8
+#EXTINF:1 TV 8 HD
+http://50.7.144.122:1935/livetv/tv8.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 TV 8 INT
+https://tgn.bozztv.com/dvrfl05/gin-tv8int/index.m3u8
+#EXTINF:1 SHOW TV HD
+http://50.7.144.122:1935/livetv/showtv.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 SHOW TÜRK
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showturk.m3u8
+#EXTINF:1 SHOW MAX
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8
+#EXTINF:1 NOW HD
+http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 Kanal D HD
+http://50.7.144.122:1935/livetv/kanald.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 Euro D HD
+https://tgn.bozztv.com/dvrfl05/gin-eurod/index.m3u8
+#EXTINF:1 Star TV
+http://50.7.144.122:1935/livetv/startv.stream/sec-f5-v1-a1.m3u81-a1.m3u8
+#EXTINF:1 Eurostar
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+#EXTINF:1 Kanal 7 HD
+http://50.7.144.122:1935/livetv/kanal7.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:1 A2 HD
+https://c.fulltvizle.com/a2/index.m3u8
+#EXTINF:1 360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:1 TEVE2 HD
+http://50.7.144.122:1935/livetv/teve2.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 Beyaz TV
+http://50.7.144.122:1935/livetv/beyaztv.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 A Spor
+http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 TRT SPOR
+http://50.7.144.122:1935/livetv/trtspor.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 TRT SPOR YILDIZ
+https://canlitvulusal3.xyz/live/trtsporyildiz/index.m3u8
+#EXTINF:1 beIN SPORTS HABER
+https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
+#EXTINF:1 beIN SPORTS 1
+https://r0.trgoalshls47.cfd/yayinzirve.m3u8
+#EXTINF:1 beIN SPORTS 2
+https://r0.trgoalshls47.cfd/yayinb2.m3u8
+#EXTINF:1 beIN SPORTS 3
+https://r0.trgoalshls47.cfd/yayinb3.m3u8
+#EXTINF:1 beIN SPORTS 4
+https://r0.trgoalshls47.cfd/yayinb4.m3u8
+#EXTINF:1 beIN SPORTS 5
+https://r0.trgoalshls47.cfd/yayinb5.m3u8
+#EXTINF:1 beIN SPORTS max1
+https://r0.trgoalshls47.cfd/yayinbm1.m3u8
+#EXTINF:1 beIN SPORTS max2
+https://r0.trgoalshls47.cfd/yayinbm2.m3u8
+#EXTINF:1 Tivibu Spor
+https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
+#EXTINF:1 Tivibu Spor(TV+)
+http://50.7.144.122:1935/livetv/tivibuspor.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 Tivibu Spor 1
+https://r0.trgoalshls47.cfd/yayint1.m3u8
+#EXTINF:1 Tivibu Spor 2
+https://r0.trgoalshls47.cfd/yayint2.m3u8
+#EXTINF:1 Tivibu Spor 3
+https://r0.trgoalshls47.cfd/yayint3.m3u8
+#EXTINF:1 Tivibu Spor 4
+https://r0.trgoalshls47.cfd/yayint4.m3u8
+#EXTINF:1 TV8.5
+http://50.7.144.122:1935/livetv/tv8-5.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 S SPORT
+https://r0.trgoalshls47.cfd/yayinss.m3u8
+#EXTINF:1 S SPORT2
+https://r0.trgoalshls47.cfd/yayinss2.m3u8
+#EXTINF:1 SP0RSMART
+https://r0.trgoalshls47.cfd/yayinsmarts.m3u8
+#EXTINF:1 SP0RSMART 2
+https://r0.trgoalshls47.cfd/yayinsms2.m3u8
+#EXTINF:1 CNBC-E
+http://50.7.144.122:1935/live/cnbce.stream/playlist.m3u8?hash=02cc91a2785b65f32d82b75af5368c6e
+#EXTINF:1 TLC
+http://50.7.144.122:1935/livetv/tlc.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 DMAX
+http://50.7.144.122:1935/livetv/dmax.stream/sec-f5-v1-a1.m3u8
+#EXTINF:1 TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
